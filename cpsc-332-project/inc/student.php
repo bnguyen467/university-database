@@ -1,8 +1,8 @@
 <?php include '../config/database.php';
-    include '../inc/header.php';
+    include '../inc/header.html';
     
     // Go back button and search area
-    echo '<a style="position:absolute;" href="../index.php">
+    echo '<a style="position:absolute;" href="../index.html">
         <button class="btn btn-secondary">BACK</button></a>
 
         <div class="student-search-box">
