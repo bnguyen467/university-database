@@ -1,0 +1,35 @@
+.professor-search-box{
+    width: 100%;
+    text-align: center;
+}
+
+.professor-search-form{
+    width: 10rem;
+    display: inline;
+    margin-left: 1rem;
+    margin-right: 1rem;
+}
+
+.table{
+    width:auto; 
+    white-space:nowrap; 
+    margin-top:1rem; 
+    margin-left:auto; 
+    margin-right:auto;
+}
+
+.course-input{
+    width: 10rem;
+}
+
+.student-search-box{
+    width: 100%;
+    text-align: center;
+}
+
+.student-search-form{
+    width: 10rem;
+    display: inline;
+    margin-left: 1rem;
+    margin-right: 1rem;
+}
