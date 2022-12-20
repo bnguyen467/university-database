@@ -173,7 +173,7 @@
             echo "</tr>";
         }
         echo '<br>';
-        echo '<h2 style="text-align: center;">Section Table</h2>';
+        echo '<h2 style="text-align: center;">Student Table</h2>';
     }
     else
         echo "There is no Data!";
